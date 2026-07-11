@@ -16,3 +16,4 @@ Data Visualization
 Development Environment
 -Jupyter Notebook
 <img width="757" height="585" alt="image" src="https://github.com/user-attachments/assets/bc348669-042d-44b0-8bea-865f92b675ee" />
+<img width="1004" height="561" alt="image" src="https://github.com/user-attachments/assets/68cab69e-5e42-465e-b8f1-568e245e2b29" />
