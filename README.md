@@ -15,3 +15,4 @@ Data Visualization
 -Seaborn
 Development Environment
 -Jupyter Notebook
+<img width="757" height="585" alt="image" src="https://github.com/user-attachments/assets/bc348669-042d-44b0-8bea-865f92b675ee" />
